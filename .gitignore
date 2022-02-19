@@ -1,0 +1,10 @@
+node_modules/
+cache/
+artifacts/
+publish/
+flatten/
+
+.env
+
+package-lock.json
+yarn.lock
